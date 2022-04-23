@@ -2,3 +2,4 @@
 [![Build](https://github.com/MUGUNTHANS862000/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/build.yml/badge.svg)](https://github.com/MUGUNTHANS862000/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/build.yml)
 [![Build CI - Windows](https://github.com/MUGUNTHANS862000/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/Build_windows.yml/badge.svg)](https://github.com/MUGUNTHANS862000/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/Build_windows.yml)
 [![CI](https://github.com/MUGUNTHANS862000/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/MUGUNTHANS862000/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/Valgrind.yml)
+[![Contribution Check - Git Inspector](https://github.com/MUGUNTHANS862000/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/MUGUNTHANS862000/M2_PROJECT-EMBEDDED-SYSTEM-2022/actions/workflows/git_inspector.yml)
